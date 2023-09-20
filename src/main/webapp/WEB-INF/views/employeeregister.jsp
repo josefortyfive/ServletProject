@@ -44,9 +44,5 @@
   </form>
  </div>
  
- <button type="button" onclick="myFunction()">Try it</button>
- <script src="/script/notification.js"></script>
- 
- 
 </body>
 </html>
